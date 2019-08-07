@@ -40,7 +40,7 @@ for(int i=1;i<n;i++)
 		s=as.nextLine();
 		int l = max_size_sub(s);
 		System.out.println(l);
-	 }
+	}
 }
 		
 		
