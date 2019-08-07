@@ -1,7 +1,7 @@
 # java_code-max_char_distinct_char
 
-import java.util.*;
-import java.io.*;
+	import java.util.*;
+	import java.io.*;
 public class Non_repeat_char
 {
 static int n_char=256;
