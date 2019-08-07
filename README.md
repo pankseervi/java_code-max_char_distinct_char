@@ -35,7 +35,7 @@ for(int i=1;i<n;i++)
 	}
 	public static void main(String[] args)
 	{
-		String s;
+		 String s;
 		Scanner as=new Scanner(System.in);
 		s=as.nextLine();
 		int l = max_size_sub(s);
